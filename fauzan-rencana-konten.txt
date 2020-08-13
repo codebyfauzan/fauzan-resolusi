@@ -3,3 +3,5 @@ Rencana Konten Fauzan
 - HTML
 - CSS
 - JAVASCRIPT
+  *ES6
+  *Framework Javascript
