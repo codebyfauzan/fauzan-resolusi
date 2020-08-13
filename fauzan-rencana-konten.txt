@@ -6,5 +6,6 @@ Rencana Konten Fauzan
   *ES6
   *Framework Javascript
    ^ Vue
+   ^ React
 - Bootstrap
 - Tailwind
