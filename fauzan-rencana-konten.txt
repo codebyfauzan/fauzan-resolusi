@@ -5,3 +5,4 @@ Rencana Konten Fauzan
 - JAVASCRIPT
   *ES6
   *Framework Javascript
+- Bootstrap
